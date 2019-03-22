@@ -1,4 +1,6 @@
+@import 'variables.scss';
+
 body {
-    color: #ffffff;
-    background-color: blue;
+    color: $test-font-color;
+    background-color: $brand-color;
 }
